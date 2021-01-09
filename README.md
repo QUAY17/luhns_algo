@@ -1,6 +1,11 @@
 # luhns_algo
 
-Luhns Algorithm
+README
+
+Jennifer Quay Minnich
+10/13/20
+Lab 3: Luhns Algorithm
+
 
 Purpose_
 
