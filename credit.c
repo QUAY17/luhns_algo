@@ -2,11 +2,10 @@
  * Assignment: Lab 3
  * 
  * @file    credit.c
- * @brief   Geometry Calculator
+ * @brief   Luhn's Algorithm
  * @author  Jennifer Quay Minnich
  * @date    Sept 24, 2020
  * 
- * @brief Luhn's Algorithm
  *
  * @details Using Luhn's Algorithm to test credit card validity from user's input.
  * Converted a character array (string) to an integer. 
